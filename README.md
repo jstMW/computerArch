@@ -21,7 +21,7 @@ just want to share them with you all.
   <br/>Edit: editor for dosbox
     <br/>source: as soon as I figure out where did I get it I will update this.
   <br/>assembly_nasm: a complete a great tool but I just used the AFD.EXE
-    <br/>source: the same as above
+    <br/>source: [the same as above](https://github.com/soothscier/assembly-nasm)
   <br/>course_material: tools I used mostly during the course provided by the course
     
   
