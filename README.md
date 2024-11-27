@@ -23,7 +23,8 @@ just want to share them with you all.
   <br/>assembly_nasm: a complete a great tool but I just used the AFD.EXE
     <br/>source: [assembly_nasm](https://github.com/soothscier/assembly-nasm)
   <br/>course_material: tools I used mostly during the course provided by the awesome [instructor](https://sites.google.com/view/camilovalderrama/)
-    
+**ascii table**
+<br />[ascii table](https://ss64.com/ascii.html)
   
 
   **I hope this information be usefull for future student or any passionate learner**
